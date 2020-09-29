@@ -1,5 +1,5 @@
 # Audio-Classification (Kapre Version)
-<em> Audio-Classification </em>
+<em> Audio-Classification </em> <hr>
 
 Pipeline for prototyping audio classification algorithms with TF 2
 
